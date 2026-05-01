@@ -1,0 +1,1 @@
+# PDF generation removed - focus on Excel output only
